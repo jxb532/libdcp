@@ -42,6 +42,7 @@
 #include "types.h"
 #include <boost/filesystem.hpp>
 #include <boost/optional.hpp>
+#include <sys/wait.h>
 
 namespace xmlpp {
 	class Node;
